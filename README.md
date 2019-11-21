@@ -2,7 +2,7 @@
 This is the python program which is used to process nepali text and calculate tfidf
 # Program Execution
 -> python main.py
-#TFIDF
+# TFIDF
 TF(w) = (Number of times term w appears in a document) / (Total number of terms in the document)
 IDF(w) = log_e(Total number of documents / Number of documents with term w in it)
 
