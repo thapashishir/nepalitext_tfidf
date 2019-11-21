@@ -11,3 +11,5 @@ Consider a document containing 100 words wherein the word 'Cauvery' appears 3 ti
 2. Now, assume we have 10 million documents and the word 'Cauvery' appears in 1000 of these. Then, the inverse document frequency (idf) is calculated as IDF = log(10,000,000 / 1,000) = 4.
 3. Thus, the Tf-idf weight is the product of these quantities TF-IDF = 0.03 * 4 = 0.12.
 
+For more see:  https://www.quora.com/How-does-TF-IDF-work
+
